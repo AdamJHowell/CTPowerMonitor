@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=CTPowerMonitor
-*Date=16:17:32
+*Date=16:40:34
 *CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
 *
 *
@@ -13,20 +13,20 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;23.3304;-20.6315;0;Bottom;TXT1
+1;;;2.66313;-22.6773;0;Bottom;Hole2
 2;;;31.1954;-14.7383;0;Bottom;TXT3
-3;10k;THT;22.983;-7.4373;-90;Bottom;R2
-4;;THT;27.936;-12.5173;0;Bottom;J1
-5;33;THT;15.363;-15.0573;90;Bottom;Burden
-6;;4Ucon 08780 [THT];5.7023;-12.5175;0;Bottom;CT1
-7;10µF;100 mil [THT, tantalum];15.363;-3.6273;-90;Bottom;C1
-8;;;30.6031;-2.3573;0;Bottom;Hole4
-9;10k;THT;20.443;-15.0573;90;Bottom;R1
-10;;;31.0961;-9.747;0;Bottom;TXT3
-11;;;12.491;-22.9772;0;Bottom;TXT4
-12;;;30.6031;-22.6773;0;Bottom;Hole3
-13;;;20.2708;-5.62844;0;Bottom;TXT1
-14;;;11.1033;-2.70516;0;Bottom;TXT2
-15;;;30.4454;-12.2369;0;Bottom;TXT3
-16;;;2.66313;-2.3573;0;Bottom;Hole1
-17;;;2.66313;-22.6773;0;Bottom;Hole2
+3;;;20.2709;-5.62845;0;Bottom;TXT1
+4;;;31.0961;-9.747;0;Bottom;TXT3
+5;;;30.6031;-22.6773;0;Bottom;Hole3
+6;10k;THT;22.983;-7.4373;-90;Bottom;R2
+7;;THT;27.936;-12.5173;180;Bottom;J1
+8;;;2.66313;-2.3573;0;Bottom;Hole1
+9;;;30.6031;-2.3573;0;Bottom;Hole4
+10;33;THT;15.363;-15.0573;90;Bottom;Burden
+11;;;30.4454;-12.2369;0;Bottom;TXT3
+12;10k;THT;20.443;-15.0573;90;Bottom;R1
+13;;;11.1252;-2.50778;0;Bottom;TXT2
+14;10µF;100 mil [THT, tantalum];15.363;-3.6273;-90;Bottom;C1
+15;;4Ucon 08780 [THT];5.7023;-12.5175;0;Bottom;CT1
+16;;;23.3524;-18.5042;0;Bottom;TXT1
+17;;;16.7369;-22.8237;0;Bottom;TXT4
