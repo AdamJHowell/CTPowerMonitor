@@ -1,0 +1,56 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=QuadCTPowerMonitor
+*Date=16:18:12
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;41.2805;-83.9947;0;Bottom;Hole3
+2;33;THT;18.4204;-12.8747;90;Bottom;Burden4
+3;10k;THT;23.5004;-15.4147;90;Bottom;R7
+4;;;28.8391;-46.7648;0;Bottom;TXT1
+5;10k;THT;26.0404;-7.79465;-90;Bottom;R8
+6;;4Ucon 08780 [THT];8.84112;-30.6142;0;Bottom;CT3
+7;;;41.4007;-38.0404;0;Bottom;TXT3
+8;;;14.5135;-62.2586;0;Bottom;TXT2
+9;;;26.699;-35.1467;0;Bottom;TXT1
+10;10µF;100 mil [THT, tantalum];18.4204;-44.6247;-90;Bottom;C2
+11;;;41.3937;-45.6621;0;Bottom;TXT3
+12;;;41.9264;-35.4754;0;Bottom;TXT3
+13;;;41.9642;-48.1121;0;Bottom;TXT3
+14;33;THT;18.4204;-73.8347;90;Bottom;Burden1
+15;33;THT;18.4204;-33.1947;90;Bottom;Burden3
+16;;;15.5484;-84.2946;0;Bottom;TXT4
+17;;;41.4078;-43.0794;0;Bottom;TXT3
+18;10k;THT;23.5004;-56.0547;90;Bottom;R3
+19;10k;THT;23.5004;-76.3747;90;Bottom;R1
+20;10k;THT;26.0404;-28.1147;-90;Bottom;R6
+21;;;3.18045;-2.71457;0;Bottom;Hole4
+22;;;28.9301;-67.5543;0;Bottom;TXT1
+23;;;29.2155;-27.2211;0;Bottom;TXT1
+24;;;29.0273;-6.78336;0;Bottom;TXT1
+25;10µF;100 mil [THT, tantalum];18.4204;-64.9447;-90;Bottom;C1
+26;10µF;100 mil [THT, tantalum];18.4204;-3.98465;-90;Bottom;C5
+27;;4Ucon 08780 [THT];8.84112;-50.9343;0;Bottom;CT2
+28;;;26.6465;-75.6929;0;Bottom;TXT1
+29;;4Ucon 08780 [THT];8.84112;-71.2542;0;Bottom;CT1
+30;33;THT;18.4204;-53.5147;90;Bottom;Burden2
+31;10k;THT;26.0404;-68.7547;-90;Bottom;R2
+32;;4Ucon 08780 [THT];8.84126;-10.4163;0;Bottom;CT4
+33;10µF;100 mil [THT, tantalum];18.4204;-24.3047;-90;Bottom;C3
+34;;THT;38.7404;-42.0847;0;Bottom;J2
+35;;;41.4197;-40.5753;0;Bottom;TXT3
+36;;;41.2805;-2.71457;0;Bottom;Hole5
+37;;;3.18045;-83.9947;0;Bottom;Hole2
+38;10k;THT;26.0404;-48.4347;-90;Bottom;R4
+39;10k;THT;23.5004;-35.7347;90;Bottom;R5
+40;;;26.6755;-14.8033;0;Bottom;TXT1
+41;;;26.4638;-55.5843;0;Bottom;TXT1
